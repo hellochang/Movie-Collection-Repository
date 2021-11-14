@@ -1,2 +1,4 @@
+flask_login
 Flask-WTF
+wtforms
 wtforms_components
