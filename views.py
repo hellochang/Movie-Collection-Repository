@@ -1,7 +1,9 @@
 from datetime import datetime
-from flask import current_app, abort, request, redirect, url_for, render_template
+from flask import current_app, abort, request, redirect, url_for, render_template, flash
 from movie import Movie
-from flask_login import LoginManager, login_required, LoginForm
+from flask_login import LoginManager, login_required
+from forms import LoginForm, MovieEditForm
+from user import User, get_user
 
 # @app.route("/")
 def home_page():
