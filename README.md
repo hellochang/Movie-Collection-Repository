@@ -16,7 +16,6 @@ Login
 
 ## Future Improvements
 
-- [ ] Password hashing with the packages ```Flask-WTF``` and ```wtforms_components```.
-
-- [ ] Update the webpage after submitting the form.
+- [ ] Add functionalities to sign up.
+- [ ] Add SQL db for backend instead of storing info in files.
 - [ ] Further improve UI with Bulma.
