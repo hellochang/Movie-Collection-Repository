@@ -9,10 +9,10 @@ Store your favourite movies on our web server! Add, edit, and store your favouri
 ## Overview
 
 Home page
-!(Home page)[home_page.png]  
+![Home page](home_page.png)   
 
 Login 
-!(Login page)[invalid_login_msg.png]
+![Login page](invalid_login_msg.png)
 
 ## Future Improvements
 
