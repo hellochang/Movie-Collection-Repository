@@ -1,4 +1,4 @@
-# Movie Collection
+# Your Personal Movie Collection
 
 Store your favourite movies on our web server! Add, edit, and store your favourite movies :smile:
 
